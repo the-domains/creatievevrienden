@@ -1,7 +1,7 @@
 name: CreatieveVrienden
 favicon: null
-layout_spectrum: 0.7003484789747745
-typography_spectrum: 0.5821211768779904
+layout_spectrum: 0.24899
+typography_spectrum: 0.24879
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.04643090674653649
+    - '#ea168c'
+    - '#ffffff'
+    - '#231f20'
+    - '#fac5e3'
+    - '#f374be'
+  brandStrength: 1
   lightness: 0.3444701989647001
   saturation: 0.4614232424646616
   rhythmicContrast: 0.45051791588775814
